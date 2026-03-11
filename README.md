@@ -135,5 +135,5 @@ school-rewards/
 └── docker-compose.yml
 ```
 
-## 📄 License: MIT — [github.com/baev82/school-rewards](https://github.com/baev82/school-rewards)
+## 📄 License: MIT — [github.com/BaevVladimir/school-rewards](https://github.com/BaevVladimir/school-rewards)
 
