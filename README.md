@@ -3,6 +3,7 @@
 
 For Docker — see INSTALL.md
 
+
 RU
 School Rewards — это веб-приложение для родителей и детей, позволяющее отслеживать успеваемость, начислять и управлять баллами(рублями) за оценки, вести сообщения и управлять школьными задачами. Система помогает мотивировать ребёнка и упрощает контроль над его учебными достижениями.
 
@@ -60,6 +61,9 @@ For parents (Admin panel):
 - Grade value settings — configure rewards for different grades.
 - Messages to children — send motivational or informational messages.
 - Backup and restore — data backup and database cleanup.
+
+
+(https://github.com/baev82/school-rewards/blob/main/screenshots/En.png?raw=true)
 
 
 ## 🏗 Architecture / Архитектура
