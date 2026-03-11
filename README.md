@@ -110,7 +110,7 @@ Default subjects (all languages): Mathematics, Biology, Literature, History, For
 
 ---
 
-## 🔐 Default PINs (настройки для входа,  )
+## 🔐 Default PINs (настройки для входа)
 
 | Role | PIN |
 |------|-----|
