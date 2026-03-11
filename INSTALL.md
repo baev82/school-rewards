@@ -1,6 +1,6 @@
 ---
 
-git clone https://github.com/baev82/school-rewards.git
+git clone https://github.com/BaevVladimir/school-rewards.git
 
 cd school-rewards
 
